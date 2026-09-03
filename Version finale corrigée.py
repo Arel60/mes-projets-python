@@ -2198,3 +2198,4 @@ if __name__ == "__main__":
     )
 
     fenetre.mainloop()
+print("ceci est ma premiere fonctionnalite")
